@@ -1,4 +1,4 @@
 # stranded
 
-A Flutter project. A simulator of a digital wallet.
+A digital wallet simulator using Flutter.
 
